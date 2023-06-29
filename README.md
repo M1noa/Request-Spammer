@@ -8,7 +8,7 @@ Please note that the usage of this script may be subject to legal restrictions a
 
 Before running the script, ensure you have the following installed:
 
-- Python (version X.X.X)
+- Python
 - `requests` library (install using `pip install requests`)
 
 ## Usage
