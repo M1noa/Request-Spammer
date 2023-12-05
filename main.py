@@ -2,7 +2,7 @@ import requests
 import random
 import threading
 
-proxy_list_url = "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt"
+proxy_list_url = "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
 proxies = []
 proxy_index = 0
 
